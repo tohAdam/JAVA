@@ -1,4 +1,4 @@
-public class StringDemo3 {
+public class StringT {
     public static void main(String[] args) {
         String original = new String("    In a Hole    in the ground there lived a Hobbit.   ");
         String trimmed;
