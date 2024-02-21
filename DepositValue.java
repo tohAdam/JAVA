@@ -16,7 +16,5 @@ public class DepositValue {
         double t = scanner.nextDouble();
         double V = P * Math.pow(1 + r / n, n * t);
   System.out.printf("Value: $%.2f%n", V);
-
-        scanner.close();
     }
 }
