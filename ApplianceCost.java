@@ -11,6 +11,5 @@ public class ApplianceCost {
         double kWhPerYear = scanner.nextDouble();
         double annualCost = costPerKWh * kWhPerYear / 100; 
         System.out.println("Annual cost: " + annualCost);
-
     }
 }
